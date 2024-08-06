@@ -1,12 +1,12 @@
-# JS-Pract
-"This repository is for practicing JavaScript."
 
 
 
 
 
-<h1 style="color:blue;text-align:center;">style JavaScript Practice Challenges</h1>
-### Problem-Solving.
+
+# <h1 style="color:blue;text-align:center;"> JavaScript Practice Challenges</h1>
+### <h3 style="text-align:center;"> .Problem-Solving.</h3>
+
 
 
 
