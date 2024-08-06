@@ -1,6 +1,6 @@
 function fizzBuzz(param1, param2) {
     const combinedLength = param1.length + param2.length;
-    if (combinedLength % 15 === 0) {
+    if (combinedLength % 3 === 0 && combinedLength % 5 === 0) {
         return "FizzBuzz";
     } else if (combinedLength % 3 === 0) {
         return "Fizz";
