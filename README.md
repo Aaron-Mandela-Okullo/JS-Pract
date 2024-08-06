@@ -1,4 +1,4 @@
-<img src="https://media.istockphoto.com/id/537331500/photo/programming-code-abstract-technology-background-of-software-deve.jpg?s=612x612&w=0&k=20&c=jlYes8ZfnCmD0lLn-vKvzQoKXrWaEcVypHnB5MuO-g8="  height="500"  width="850"/>
+<img src="https://media.istockphoto.com/id/537331500/photo/programming-code-abstract-technology-background-of-software-deve.jpg?s=612x612&w=0&k=20&c=jlYes8ZfnCmD0lLn-vKvzQoKXrWaEcVypHnB5MuO-g8="  height="500"  width="860"/>
 
 
 
@@ -6,7 +6,7 @@
 
  # JavaScript Practice Challenges.
 
-Problem-Solving.
+##Problem-Solving.
 
 
 ## Project description.
