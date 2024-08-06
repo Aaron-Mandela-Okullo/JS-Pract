@@ -3,7 +3,7 @@
 
 
 
-<h1 style="color:blue;text-align:center;">This is a placeholder of heading</h1>
+
  <h1 style="color:blue;text-align:center;"> JavaScript Practice Challenges</h1>
 
 <h3 style="text-align:center;"> .Problem-Solving.</h3>
