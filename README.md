@@ -4,9 +4,9 @@
 
 
 
- <h1 style="color:blue;text-align:center;"> JavaScript Practice Challenges</h1>
+ # JavaScript Practice Challenges.
 
-<h3 style="text-align:center;"> .Problem-Solving.</h3>
+Problem-Solving.
 
 
 ## Project description.
@@ -15,17 +15,13 @@ You can use Vanilla JavaScript to complete these code challenges. Vanilla JS is 
 
 
 ## Caution:
-<h4 style="color:red;"> DO NOT </h4>Copy solutions online or from anywhere. 
+DO NOT Copy solutions online or from anywhere. 
 Try to do this yourself 
 
 ## Prerequisites.
 It would be best if you had covered the JS basics (Variables, Control flow, Arrays, and Objects).
 Personal research and prior practice with JavaScript will help you a lot.
 You should create a GitHub repo for these challenges. Then create separate files for each solution of a code challenge.
-
-
-## Submission deadline: 
-
 
 
 
