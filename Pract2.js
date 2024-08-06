@@ -1,24 +1,24 @@
-// Function to determine age category
-function determineAgeCategory(yearOfBirth) {
-  const currentYear = new Date().getFullYear(); // Get the current year
-  const age = currentYear - yearOfBirth; // Calculate age based on year of birth
+function determineAgeGroup() {
+  const currentYear = new Date().getFullYear();
+  const yearOfBirth = ("Please enter your year of birth:");
 
-  if (age < 18) {
-      return 'You are a minor.';
-  } else if (age >= 18 && age <= 36) {
-      return 'You are a youth.';
+  if (yearOfBirth === null || yearOfBirth === "" || isNaN(yearOfBirth)) {
+      console.log("Invalid input. Please enter a valid year of birth.");
+      return;
+  }
+
+  const age = currentYear - parseInt(yearOfBirth);
+
+  if (age < 0) {
+      console.log("You entered a future year. Please enter a valid year of birth.");
+  } else if (age < 18) {
+      console.log("You are a minor.");
+  } else if (age <= 36) {
+      console.log("You are a youth.");
   } else {
-      return 'You are an elder.';
+      console.log("You are an elder.");
   }
 }
 
-// Prompt the user for their year of birth
-const userYearOfBirth = parseInt(prompt("Enter your year of birth:"), 10);
-
-// Validate input and ensure it's a valid number
-if (!isNaN(userYearOfBirth) && userYearOfBirth > 0) {
-  const message = determineAgeCategory(userYearOfBirth);
-  console.log(message); // Print the result to the console
-} else {
-  console.log('Invalid input. Please enter a valid year.');
-}
+// Call the function to prompt the user and determine their age group
+determineAgeGroup();
