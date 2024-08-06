@@ -15,7 +15,7 @@ You can use Vanilla JavaScript to complete these code challenges. Vanilla JS is 
 
 
 ## Caution:
-<h1 style="color:red;text-align:center;"> DO NOT </h1>Copy solutions online or from anywhere. 
+<h4 style="color:red;"> DO NOT </h4>Copy solutions online or from anywhere. 
 Try to do this yourself 
 
 ## Prerequisites.
