@@ -3,7 +3,9 @@
 
 
 
-## JavaScript Practice Challenges 
+
+
+<h1 style="color:blue;text-align:center;">style JavaScript Practice Challenges</h1>
 ### Problem-Solving.
 
 
