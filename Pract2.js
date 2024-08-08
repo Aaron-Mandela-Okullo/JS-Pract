@@ -21,5 +21,5 @@ function determineAgeGroup() {
 }
 
 // Call the function to prompt the user and determine their age group
-determineAgeGroup(1997);
+determineAgeGroup();
 
