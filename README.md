@@ -50,7 +50,8 @@ A string is palindromic if it reads the same forward and backward.<br>
 <em>output: "ada" </em><br>
 <em>Explanation: The first string that is palindromic is "ada" . <br>
 Note that "racecar" is also palindromic, but it is not the first.
-6. Given an integer num, write a function that repeatedly adds all its digits until the result has only one digit, and return it.
+
+5. Given an integer num, write a function that repeatedly adds all its digits until the result has only one digit, and return it.
 
 # Code Challenges (Set 2)
 —----------------------- <br>
