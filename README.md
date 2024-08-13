@@ -35,14 +35,21 @@ You should create a GitHub repo for these challenges. Then create separate files
 You can return the answer in any order.
 
 ### Example 1:
-<em>input: nums = [2,7,11,15], target = 9 <br></em>
-output: [0.1] <br>
-Explanation: Because nums[0] + nums[1] == p,
+<em>input: nums = [2,7,11,15], target = 9 </em> <br>
+<em>output: [0.1] </em><br>
+<em>Explanation: Because nums[0] + nums[1] == p, we return [0, 1] <br>
+### Example 2:
+<em>input: nums = [3, 2, 4], target = 6</em> <br>
+<em>output: [0.1] </em><br>
 
 
-5. Write a function named firstPalindrome which takes a parameter: words. Given an array of string words, return the first palindromic string in the array. If there is no such string, return an empty string "".
-A string is palindromic if it reads the same forward and backward.
-
+4. Write a function named firstPalindrome which takes a parameter: words. Given an array of string words, return the first palindromic string in the array. If there is no such string, return an empty string "".
+A string is palindromic if it reads the same forward and backward.<br>
+### Example 1:
+<em>input: words = ["aba","car","ada","racecar","cool"], </em> <br>
+<em>output: "ada" </em><br>
+<em>Explanation: The first string that is palindromic is "ada" . <br>
+Note that "racecar" is also palindromic, but it is not the first.
 6. Given an integer num, write a function that repeatedly adds all its digits until the result has only one digit, and return it.
 
 # Code Challenges (Set 2)
