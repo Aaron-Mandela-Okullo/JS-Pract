@@ -6,7 +6,7 @@
 
  # JavaScript Practice Challenges.
 
-##Problem-Solving.
+## Problem-Solving.
 
 
 ## Project description.
@@ -35,7 +35,7 @@ You should create a GitHub repo for these challenges. Then create separate files
 You can return the answer in any order.
 
 ### Example 1:
-input: nums = [2,7,11,15], target = 9 <br>
+<em>input: nums = [2,7,11,15], target = 9 <br></em>
 output: [0.1] <br>
 Explanation: Because nums[0] + nums[1] == p,
 
@@ -46,7 +46,7 @@ A string is palindromic if it reads the same forward and backward.
 6. Given an integer num, write a function that repeatedly adds all its digits until the result has only one digit, and return it.
 
 # Code Challenges (Set 2)
-—-----------------------
+—----------------------- <br>
 1.Given an Array containing integers, floats, and one character strings, write a function that takes an Array as a parameter and returns an Object with keys evens, odds, and chars. The value for evens is an array of sorted even numbers, the value for odds is a list of sorted odd numbers and chars is a list of sorted single-character strings.
 Caution: DO NOT use the sort array method
 Example Input:
