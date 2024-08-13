@@ -37,7 +37,7 @@ You can return the answer in any order.
 ### Example 1:
 <em>input: nums = [2,7,11,15], target = 9 </em> <br>
 <em>output: [0.1] </em><br>
-<em>Explanation: Because nums[0] + nums[1] == p, we return [0, 1] <br>
+<em>Explanation: Because nums[0] + nums[1] == p, we return [0, 1] </em><br>
 ### Example 2:
 <em>input: nums = [3, 2, 4], target = 6</em> <br>
 <em>output: [0.1] </em><br>
