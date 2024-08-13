@@ -48,19 +48,24 @@ A string is palindromic if it reads the same forward and backward.<br>
 ### Example 1:
 <em>input: words = ["aba","car","ada","racecar","cool"], </em> <br>
 <em>output: "ada" </em><br>
-<em>Explanation: The first string that is palindromic is "ada" . <br>
+<em>Explanation: The first string that is palindromic is "ada".</em><br>
 Note that "racecar" is also palindromic, but it is not the first.
 
 5. Given an integer num, write a function that repeatedly adds all its digits until the result has only one digit, and return it.
+
+### Example 1:
+<em>input: num = 38 </em> <br>
+<em>output: 2] </em><br>
+<em>Since 2 has only one digit, return it. </em><br>
 
 # Code Challenges (Set 2)
 —----------------------- <br>
 1.Given an Array containing integers, floats, and one character strings, write a function that takes an Array as a parameter and returns an Object with keys evens, odds, and chars. The value for evens is an array of sorted even numbers, the value for odds is a list of sorted odd numbers and chars is a list of sorted single-character strings.
 Caution: DO NOT use the sort array method
-Example Input:
-
-Expected output:
-
+### Example Input:
+let someArray = [3.0, 'a', 7, 'x', '20', 'd', 4, 'f', 8]
+### Expected output:
+{evene: [4, 8, 20], odds: [3.0, 7], chars: ['a', 'd', 'f', 'x']}
 2. Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
 
 
